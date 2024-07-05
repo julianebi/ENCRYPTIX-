@@ -1,4 +1,4 @@
-1. Titanic Survival Prediction
+#1. Titanic Survival Prediction
 Objective: Predict the survival of passengers on the Titanic using passenger data.
 
 Steps Involved:
