@@ -1,4 +1,4 @@
-1.#** Titanic Survival Prediction**
+1.**Titanic Survival Prediction**
 Objective: Predict the survival of passengers on the Titanic using passenger data.
 
 Steps Involved:
@@ -12,7 +12,7 @@ Steps Involved:
 **Hyperparameter Tuning**: Optimize model parameters using techniques like Grid Search or Random Search.
 **Conclusion**: Summarize findings and the performance of the best model.
 
-2. #**Iris Flower Classification**
+2. **Iris Flower Classification**
 Objective: Classify iris flowers into three species (Setosa, Versicolor, Virginica) based on four features (sepal length, sepal width, petal length, petal width).
 
 Steps Involved:
@@ -25,7 +25,7 @@ Steps Involved:
 **Cross-Validation**: Perform cross-validation to ensure model generalization.
 **Conclusion**: Present the classification results and the performance of the best model.
 
-3. #**Sales Prediction Using Python**
+3. **Sales Prediction Using Python**
 Objective: Predict future sales based on historical sales data.
 
 Steps Involved:
