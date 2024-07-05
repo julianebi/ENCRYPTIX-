@@ -3,9 +3,9 @@ Objective: Predict the survival of passengers on the Titanic using passenger dat
 
 Steps Involved:
 
-**Data Loading**: Load the Titanic dataset, typically available from Kaggle.[1]
-**Data Exploration**: Analyze the dataset to understand its structure, look at summary statistics, and visualize data distributions.[2]
-**Data Preprocessing**: Handle missing values, encode categorical features, and perform feature scaling.[3]
+**Data Loading**: Load the Titanic dataset, typically available from Kaggle.
+**Data Exploration**: Analyze the dataset to understand its structure, look at summary statistics, and visualize data distributions.
+**Data Preprocessing**: Handle missing values, encode categorical features, and perform feature scaling.
 **Feature Engineering**: Create new features from existing data to improve model performance.
 **Model Building**: Select appropriate machine learning algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, etc.) and train models on the dataset.
 **Model Evaluation**: Evaluate models using metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
